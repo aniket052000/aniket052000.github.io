@@ -17,7 +17,8 @@
       "namespace": "android_app",
       "package_name": "com.walmart.sparkdriver.teflon",
       "sha256_cert_fingerprints": [
-        "C5:48:5F:A9:CE:EF:01:CC:A8:4D:A6:D1:3E:8C:F0:E5:54:66:E9:11:D0:A7:CD:E9:66:BB:D0:61:DB:46:04:EA"
+        "C5:48:5F:A9:CE:EF:01:CC:A8:4D:A6:D1:3E:8C:F0:E5:54:66:E9:11:D0:A7:CD:E9:66:BB:D0:61:DB:46:04:EA",
+        "6E:0C:76:A6:D4:5B:D0:E2:78:F2:27:C5:9E:27:9E:6E:94:6A:A4:3C:4D:82:36:6C:40:C4:54:FC:95:53:CC:D5"
       ]
     }
   }
