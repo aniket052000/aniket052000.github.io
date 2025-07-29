@@ -18,7 +18,9 @@
       "package_name": "com.walmart.sparkdriver.teflon",
       "sha256_cert_fingerprints": [
         "C5:48:5F:A9:CE:EF:01:CC:A8:4D:A6:D1:3E:8C:F0:E5:54:66:E9:11:D0:A7:CD:E9:66:BB:D0:61:DB:46:04:EA",
-        "6E:0C:76:A6:D4:5B:D0:E2:78:F2:27:C5:9E:27:9E:6E:94:6A:A4:3C:4D:82:36:6C:40:C4:54:FC:95:53:CC:D5"
+        "6E:0C:76:A6:D4:5B:D0:E2:78:F2:27:C5:9E:27:9E:6E:94:6A:A4:3C:4D:82:36:6C:40:C4:54:FC:95:53:CC:D5",
+        "F3:CF:E9:B2:7C:F7:7A:41:40:51:73:4B:6A:07:42:2E:D8:B8:ED:71:DE:02:E0:D1:E8:A3:69:94:C1:5A:17:A2",
+        "BF:8D:09:BF:E7:17:3E:EA:14:68:7C:E4:7F:1E:F5:ED:2A:7D:D5:65:AC:3A:A4:29:97:B8:7C:9A:CB:E8:77:E2"
       ]
     }
   }
